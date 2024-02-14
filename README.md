@@ -1,2 +1,2 @@
-# Ultimate Databricks for Data Engineering
-Ultimate Databricks for Data Engineering, published by Orange, AVA™
+# Ultimate Data Engineering with Databricks
+Ultimate Data Engineering with Databricks, published by Orange, AVA™
